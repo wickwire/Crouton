@@ -56,6 +56,8 @@
     "paper-slider": "PolymerElements/paper-slider",
     "paper-toast": "PolymerElements/paper-toast",
     "paper-toggle-button": "PolymerElements/paper-toggle-button",
-    "polymer": "Polymer/polymer#~1.4.0"
+    "polymer": "Polymer/polymer#~1.4.0",
+    "firebase": "^2.4.2",
+    "paper-dialog": "PolymerElements/paper-dialog#^1.0.4"
   }
 }
